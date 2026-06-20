@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Full Stack Developer focused on digital products, cloud solutions and microservices architectures.<br><br>🔭 Built digital banking products used by thousands of customers across Colombia.<br>🏗️ Experienced in microservices, cloud architectures and enterprise software development.<br>🤖 Experienced in using Generative AI tools to accelerate software development, testing, documentation and technical analysis.<br>📚 Continuously learning cloud technologies, software architecture and engineering best practices.<br>🌍 Based in France and interested in cloud-native and distributed systems.</p>
+<p data-importer="text" align="left">Full Stack Developer focused on digital products, cloud solutions and microservices architectures.<br><br>🔭 Built digital banking products used by thousands of customers across Colombia.<br>🏗️ Experienced in microservices, cloud architectures and enterprise software development.<br>🤖 Experienced in using Generative AI tools to accelerate software development, testing, documentation and technical analysis.<br>📚 Continuously learning cloud technologies, software architecture and engineering best practices.<br>💡 Passionate about designing digital products that solve real business problems.</p>
 
 ###
 
